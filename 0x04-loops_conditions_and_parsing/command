@@ -1,12 +1,5 @@
 #!/bin/bash
-touch 0-RSA_public_key.pub
-touch 1-for_best_school
-touch 2-while_best_school
-touch 3-until_best_school
-touch 4-if_9_say_hi
-touch 5-4_bad_luck_8_is_your_chance
-touch 6-superstitious_numbers
-touch 7-clock
-touch 8-for_ls
-touch 9-to_file_or_not_to_file
-touch 10-fizzbuzz
+touch 100-read_and_cut
+touch 101-tell_the_story_of_passwd
+touch 102-lets_parse_apache_logs
+touch 103-dig_the-data
