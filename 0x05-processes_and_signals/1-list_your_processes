@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#dispalys a list of currently running processes
+#show process hierarchy
+
+ps -faux
