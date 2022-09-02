@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# displays all open ports and pids
+netstat -lp
